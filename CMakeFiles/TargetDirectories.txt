@@ -1,0 +1,3 @@
+C:/mine/Sort1/CMakeFiles/Sort1.dir
+C:/mine/Sort1/CMakeFiles/ALL_BUILD.dir
+C:/mine/Sort1/CMakeFiles/ZERO_CHECK.dir
